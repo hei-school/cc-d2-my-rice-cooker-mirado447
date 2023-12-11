@@ -45,7 +45,7 @@ This program simulates the operation of a rice cooker and includes features corr
 
 2. **Run the progran**
    ```bash
-   go run RiceCooker.go
+   go run rice_cooker.go
   
 ## Prerequisites
 Make sure you have Go installed on your system. You can download and install it from https://golang.org/doc/install
