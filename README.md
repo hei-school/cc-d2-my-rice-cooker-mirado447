@@ -24,13 +24,7 @@ This program simulates the operation of a rice cooker and includes features corr
 6. **Start Cooking**
    - Press the "Cook" button to initiate the cooking process.
 
-7. **Cooking**
-   - The "Cook" button remains engaged during cooking.
-
-8. **Switch to Warm Mode**
-   - Once cooking is complete, the rice cooker automatically switches to "Warm" mode.
-
-9. **Power Disconnection**
+7. **Power Disconnection**
    - Unplug the rice cooker when finished.
 
 ## Installation
