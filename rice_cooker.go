@@ -40,7 +40,8 @@ func displayMenu() {
 	fmt.Println("4. Verser de l'eau")
 	fmt.Println("5. Fermer le couvercle")
 	fmt.Println("6. Mettre le bouton sur cook")
-	fmt.Println("7. Débrancher la prise")
+	fmt.Println("7. Faire cuire")
+	fmt.Println("8. Débrancher la prise")
 	fmt.Println("0. Quitter")
 }
 
@@ -59,6 +60,8 @@ func handleUserChoice(choice int) {
 	case 6:
 		startCooking()
 	case 7:
+		cook()
+	case 8:
 		disconnectPower()
 	case 0:
 		fmt.Println("Programme terminé.")
