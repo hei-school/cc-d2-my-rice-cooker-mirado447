@@ -50,6 +50,8 @@ This project is written in four different programs using various programming lan
 
 3. **Installation Instructions by Language**
    - Follow specific instructions for each branch:
+     -feature/GO :
+     -feature/Ruby:
 
 
 ## Language Standards
